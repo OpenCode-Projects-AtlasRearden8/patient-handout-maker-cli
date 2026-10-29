@@ -1,0 +1,32 @@
+{
+  "name": "meds-review",
+  "title": "Medicine Review",
+  "description": "Simple teaching sheet for reviewing daily medicines",
+  "sections": {
+    "easy": [
+      {
+        "heading": "About {topic}",
+        "lines": [
+          "This is a simple practice sheet about {topic} for testing.",
+          "Keep it short, warm, and plain."
+        ]
+      }
+    ],
+    "plain": [
+      {
+        "heading": "About {topic}",
+        "lines": [
+          "This is the plain-level practice sheet about {topic} for testing."
+        ]
+      }
+    ],
+    "standard": [
+      {
+        "heading": "About {topic}",
+        "lines": [
+          "This is the standard-level practice sheet about {topic} for testing."
+        ]
+      }
+    ]
+  }
+}
